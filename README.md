@@ -2,7 +2,7 @@
 New presets for PulseEffects (provided by WWMM)
 
 ## How to install PulseEffects
-The complete tutorial for installation of PulseEffects can be provided by its owner: https://github.com/wwmm/pulseeffects
+The complete tutorial for installation of PulseEffects can be provided by its owner at: https://github.com/wwmm/pulseeffects
 
 A quick way to install on **Ubuntu (or derivates) >= 18.04** or **Mint >= 19** is:
 ```
