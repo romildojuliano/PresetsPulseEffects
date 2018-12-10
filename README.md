@@ -4,7 +4,6 @@ New presets for PulseEffects (ONLY FOR LINUX)
 After installing PulseEffects on Linux, move the listed presets to the following folder:
 ```
 ~/.var/app/com.github.wwmm.pulseeffects/config/PulseEffects 
-
 ```
 Presets:
 
