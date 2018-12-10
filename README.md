@@ -12,6 +12,8 @@ sudo apt install pulseeffects pulseaudio --install-recommends
 ```
 Be sure after installation, **you must reboot or logout**, because there's a bug who doesn't allow the program to start!
 
+## Adding the new presets
+
 After installing PulseEffects on Linux, move the listed presets to the following folder:
 ```
 ~/.var/app/com.github.wwmm.pulseeffects/config/PulseEffects 
