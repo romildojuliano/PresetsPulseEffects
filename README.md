@@ -20,7 +20,7 @@ After installing PulseEffects on Linux, move the listed presets to the following
 ```
 ## Presets Available
 
-### Bass Boosted - Low Mid: 
+### Bass Boosted - Low Mid
 
 As the name says, it has an **improved bass** as the mid tones decreases to not interfere too much on the sound quality in general; **The high tones are a little bit oversaturated**, some ajusts would make it better! 
 
